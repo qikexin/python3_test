@@ -22,4 +22,3 @@ if __name__ == '__main__':
     data = list(range(1000))
     select_sort(data)
     print(data)
-   
